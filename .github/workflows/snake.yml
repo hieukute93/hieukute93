@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # Chạy tự động mỗi 12 giờ
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
