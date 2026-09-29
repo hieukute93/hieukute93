@@ -1,3 +1,5 @@
+Hi, I’m Trung Hiếu! chiken
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieukute93/hieukute93/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieukute93/hieukute93/output/github-snake.svg">
